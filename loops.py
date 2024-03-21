@@ -41,12 +41,16 @@ for student in students:
     print(f"Ogrenci: {student}")
 
 
+#while 
+i =0
+while i<10:
+    print("Merhaba")
+    i = i +1
 
 
 
 
-
-
-
+#to do:
+#classes #module
 
 
